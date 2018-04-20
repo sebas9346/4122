@@ -75,7 +75,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\sebas\Desktop\Urho3D-master\Urho3D-master\Source\Samples;C:\Users\sebas\Desktop\Urho3D-master\Urho3D-master\Source\ThirdParty\Lua\src;C:\Users\sebas\Desktop\Urho3D-master\Urho3D-master\Source\ThirdParty\Bullet\src;C:\Users\sebas\Desktop\Urho3D-master-Build\include\Urho3D\ThirdParty;C:\Users\sebas\Desktop\Urho3D-master-Build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(Solution Dir)\..\Urho3D-master\Urho3D-master\Source\Samples;$(Solution Dir)\..\Urho3D-master\Urho3D-master\Source\ThirdParty\Lua\src;$(Solution Dir)\..\Urho3D-master\Urho3D-master\Source\ThirdParty\Bullet\src;$(Solution Dir)\..\Urho3D-master-Build\include\Urho3D\ThirdParty;$(Solution Dir)\ ..\Urho3D-master-Build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -92,7 +92,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\sebas\Desktop\Urho3D-master\Urho3D-master\Source\Samples;C:\Users\sebas\Desktop\Urho3D-master\Urho3D-master\Source\ThirdParty\Lua\src;C:\Users\sebas\Desktop\Urho3D-master\Urho3D-master\Source\ThirdParty\Bullet\src;C:\Users\sebas\Desktop\Urho3D-master-Build\include\Urho3D\ThirdParty;C:\Users\sebas\Desktop\Urho3D-master-Build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(Solution Dir)\..\Urho3D-master\Urho3D-master\Source\Samples;$(Solution Dir)\..\Urho3D-master\Urho3D-master\Source\ThirdParty\Lua\src;$(Solution Dir)\..\Urho3D-master\Urho3D-master\Source\ThirdParty\Bullet\src;$(Solution Dir)\..\Urho3D-master-Build\include\Urho3D\ThirdParty;$(Solution Dir)\ ..\Urho3D-master-Build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
