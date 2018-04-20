@@ -52,7 +52,7 @@
 #include <Urho3D/UI/UI.h>
 #include <Urho3D/UI/UIEvents.h>
 #include <Urho3D/Graphics/Zone.h>
-
+//s
 #include <Urho3D/DebugNew.h>
 
 #include "Character2D.h"
